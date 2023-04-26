@@ -6,7 +6,7 @@ My name is Alexander and I am a Java developer
    <a href="https://t.me/heydancer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href=a.ustiantcev@gmail.com>
+  <a href="https://a.ustiantcev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
  <p align='center'>
