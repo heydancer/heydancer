@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexander and I am a Java developer
+My name is Alexander and I'm a Java developer
 
 <p align='center'>
    <a href="https://t.me/heydancer">
